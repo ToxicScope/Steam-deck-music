@@ -1,0 +1,10 @@
+{
+  "name": "Majula Theme",
+  "description": "Dark Souls 2 calm piano ambiance.",
+  "author": "ToxicScope",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
